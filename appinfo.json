@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "aws167@psu.edu",
+    "longName": "Guardian",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Guardian",
+    "uuid": "5ff7aec7-80d5-42e3-8cf1-28fe6b4bfd9d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
